@@ -1,0 +1,16 @@
+.cont {width:900px}
+#slidesection h1 {font-size:45px}
+#slidesection h2 {font-size:28px}
+#slideshow {
+  background:url(../img/slideshowbgv1.png) center 0 no-repeat;
+  height:545px;
+  margin:0 auto;
+  padding:70px 0 0;
+  width:1020px;
+}
+#slideshow div, #slideshow li {
+  height:450px;
+  width:722px;
+}
+#help .fl {width:545px}
+#help h3 {font-size:30px}
